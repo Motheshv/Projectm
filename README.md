@@ -180,6 +180,7 @@ Connect the Trig pin of the HC-SR04 sensor to a digital output pin (e.g., D2 on 
 Connect the Echo pin of the HC-SR04 sensor to another digital input pin (e.g., D3 on Arduino).
 Refer to the following image for a visual representation of the Arduino setup:
 
+![img](https://github.com/Motheshv/Projectm/blob/b2c948b950e7bd04ceb640b8ec1a6a7308d403fb/IMG-20231018-WA0003.jpg)
            
 ## 2.Arduino Code:
 Before you proceed, ensure you have the “NewPing” library installed in your Arduino IDE. Then, upload the following Arduino code to read data from the HC-SR04 sensor and send it to the Raspberry Pi via Serial communication:
